@@ -6,8 +6,8 @@ nev:str = input('írd be a neved: ')
 
 print(f'hello, {nev}!')
 
-vezeteknev:str = "Faludi"
-keresztnev:str = "Anita"
+vezeteknev:str = "Juhasz"
+keresztnev:str = "Zoltan"
 
 print(vezeteknev + ' ' + keresztnev)
 # "f" betűs prefix str előtt: "formated string"
