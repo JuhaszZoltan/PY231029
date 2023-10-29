@@ -1,0 +1,3 @@
+- függvények
+- filekezelés
+- osztály deffiniálása & használata
